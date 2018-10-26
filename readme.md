@@ -57,5 +57,3 @@ Welcome to the Data Visualization tutorial!
 .
 
 每个部分都将关注Python中绘图的一个特定方面，依靠您获得的知识，直到完成工作。
-
-准备？ [要开始本教程，请继续下一节“使用pandas进行单变量绘图”](https://www.kaggle.com/residentmario/univariate-plotting-with-pandas/).
